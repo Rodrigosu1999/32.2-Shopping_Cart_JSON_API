@@ -1,10 +1,10 @@
 {
   "name": "shopping_list",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +14,14 @@
   },
   "devDependencies": {
     "supertest": "^6.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigosu1999/32.2-Shopping_Cart_JSON_API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rodrigosu1999/32.2-Shopping_Cart_JSON_API/issues"
+  },
+  "homepage": "https://github.com/Rodrigosu1999/32.2-Shopping_Cart_JSON_API#readme",
+  "description": ""
 }
